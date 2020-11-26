@@ -1,0 +1,67 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/banner2.jpg" ele_padding="100px,0px,100px,0px" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Poppins,30,,600,,,Solid,,,,"]
+
+
+
+Contact Us[/pl_heading]
+[pl_breadcrumb home="Home" alignment="left" separator=" | " separator_color="#ffffffff" ele_bg_hover_delay="400" breadcrumb_color="#a5c422ff" cur_color="#ffffffff" typo="Poppins,16,,,,,Solid,,Uppercase,," prefix_typo=",,,,,,Solid,,,," prefix_color=" "]
+[/pl_breadcrumb]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="100px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_image id="{{theme_url}}/images/contact.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_margin="60px,0px,0px,0px"]
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" animation="fadeInDown" animation_delay="600"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Poppins,40,,600,,,Solid,,,,"]
+
+
+
+Make an Appointment[/pl_heading]
+[pl_contact form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Send Message" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_input_bg="#f9f9f9ff" placeholder_typo="Poppins,14,,,,,Solid,,,," form_placeholder_color="#8b8b8bff" input_height="30" field_border_type="solid" field_border_color=" " field_border_width="0,0,0,0" field_border_radius="4,4,4,4" btn_typo="Poppins,14,,600,,,Solid,,Uppercase,," btn_bg_color="#9fd832ff" btn_color="#ffffff" ele_padding="0px,0px,50px,0px"]
+[pl_contact_item label_name="Your Name" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item label_name="Your Email" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item label_name="Select Date" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true" field_display=""]
+[/pl_contact_item]
+[pl_contact_item label_name="Phone Number" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true" field_display=""]
+[/pl_contact_item]
+[pl_contact_item label_name="Message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true" field_display="" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="custom" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_google_maps zoom="10" height="600" ele_bg_hover_delay="400"]
+
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="60px,0px,40px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_address icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" color="#757575ff" icon_color="#9fd832ff" icon_size="30" space="10" typography="Poppins,14,,400,,,Solid,1.4,,," ele_padding="20px,20px,20px,20px" border_width="1px,1px,1px,1px" border_color="#757575ff" ele_shadow="1,1,10,#757575a4,0," animation="fadeInUp" animation_delay="200"]
+[/pl_address]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_phone icon="fas fa-phone-alt" ele_bg_hover_delay="400" icon_color="#9fd832ff" ele_padding="25px,20px,25px,20px" ele_shadow="1,1,10,#757575a4,0," align="center" color="#757575a4" space="10" icon_size="25" typography="Poppins,16,,,,,Solid,,,," animation="fadeInUp" animation_delay="400"]
+[/pl_phone]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_email icon="fas fa-envelope" ele_bg_hover_delay="400" icon_size="30" space="10" icon_color="#9fd832ff" color="#757575a4" typography="Poppins,16,,400,,,Solid,,,," align="center" ele_padding="23px,20px,23px,20px" ele_shadow="1,1,10,#757575a4,0," animation="fadeInUp" animation_delay="600"]
+[/pl_email]
+[/pl_col]
+[/pl_row]

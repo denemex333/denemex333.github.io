@@ -1,0 +1,149 @@
+[pl_post_props post_title="About Us" post_name="about-us" post_status="publish" featured_image="" ele_bg_hover_delay="400" post_excerpt=""]
+[/pl_post_props]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/banner2.jpg" ele_padding="100px,0px,100px,0px" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Poppins,30,,600,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+About Us[/pl_heading]
+[pl_breadcrumb home="Home" alignment="left" separator=" | " separator_color="#ffffffff" ele_bg_hover_delay="400" breadcrumb_color="#a5c422ff" cur_color="#ffffffff" typo="Poppins,16,,,,,Solid,,Uppercase,," prefix_typo=",,,,,,Solid,,,," prefix_color=" " animation="fadeInUp" animation_delay="600"]
+[/pl_breadcrumb]
+[/pl_col]
+[/pl_row]
+[pl_row ele_margin="60px,0px,0px,0px" stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col col="6"]
+[pl_heading heading_state="normal" color="#111111" ele_bg_hover_delay="400" align="center" heading_typo="Poppins,40,,600,,,Solid,,,," animation="fadeInUp"]
+
+
+
+
+Why Chose Us[/pl_heading]
+[pl_text]
+
+
+
+
+
+
+
+[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fas fa-ambulance" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8ad532ff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="24 / 7 Emergency" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Poppins,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,20,10" service_icon_spacing="20,0,0,0" animation="fadeInUp" animation_delay="200"]
+
+
+
+
+<p><span style="color: rgb(89, 89, 89);">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. </span></p>[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fas fa-tooth" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8ad532ff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="15 year of exprience" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Poppins,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,20,10" service_icon_spacing="20,0,0,0" animation="fadeInUp" animation_delay="400"]
+
+
+
+
+<p><span style="color: rgb(89, 89, 89);">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. </span></p>[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fas fa-tablets" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8ad532ff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Offering Sedation Services" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Poppins,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,20,10" service_icon_spacing="20,0,0,0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p><span style="color: rgb(89, 89, 89);">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. </span></p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fas fa-band-aid" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8ad532ff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Invisalign Premier Provider" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Poppins,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,20,10" service_icon_spacing="20,0,0,0" animation="fadeInUp" animation_delay="200"]
+
+
+
+
+<p><span style="color: rgb(89, 89, 89);">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. </span></p>[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fas fa-list-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8ad532ff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Work with Most Insurance" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Poppins,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,20,10" service_icon_spacing="20,0,0,0" animation="fadeInUp" animation_delay="400"]
+
+
+
+
+<p><span style="color: rgb(89, 89, 89);">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. </span></p>[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fas fa-suitcase" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8ad532ff" service_icon_font_size="40" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Flexible Payment Options" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Poppins,20,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,20,10" service_icon_spacing="20,0,0,0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p><span style="color: rgb(89, 89, 89);">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. </span></p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="60px,0px,0px,0px" ele_bg_type="color" ele_bg_color="#f9f9f9ff" ele_padding="60px,0px,60px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="center" heading_typo="Poppins,45,,600,,,Solid,,,," animation="fadeInDown"]
+
+
+
+
+
+
+
+Our Doctors[/pl_heading]
+[pl_inner_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,0px,0px"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/team-img1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Nate Baston" service_title_spacing="20,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo=",28,,600,,,,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,20,10" ele_bg_type="color" ele_bg_color="#f9f9f9ff" ele_shadow="0,4,5,#eeeeeeff,0," animation="fadeInUp" animation_delay="20"]
+
+
+
+
+
+
+
+<p>General Principal</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/team-img2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Jason Stewart" service_title_spacing="20,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo=",28,,600,,,,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,20,10" ele_bg_type="color" ele_bg_color="#f9f9f9ff" ele_shadow="0,4,5,#eeeeeeff,0," animation="fadeInUp" animation_delay="40"]
+
+
+
+
+
+
+
+<p>Pregnancy</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" animation="fadeInUp" animation_delay="60"]
+[pl_service service_image="{{theme_url}}/images/team-img3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Miasha Nakahara" service_title_spacing="20,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo=",28,,600,,,,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,20,10" ele_bg_type="color" ele_bg_color="#f9f9f9ff" ele_shadow="0,4,5,#eeeeeeff,0,"]
+
+
+
+
+
+
+
+<p>Cardiology</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#8ad532ff" ele_padding="60px,0px,60px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="15" animation_duration="2000" counter_align="center" counter_text="years of experience" counter_text_color="#333333" counter_text_style="Poppins,18,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Poppins,45,,600,,,Solid,1.5,,," ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" animation="fadeInUp"]
+[/pl_counter]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="79" animation_duration="2000" counter_align="center" counter_text="visited conferentions" counter_text_color="#333333" counter_text_style="Poppins,18,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Poppins,45,,600,,,Solid,1.5,,," ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" animation="fadeInUp"]
+[/pl_counter]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="45" animation_duration="2000" counter_align="center" counter_text="smiling clients" counter_text_color="#333333" counter_text_style="Poppins,18,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Poppins,45,,600,,,Solid,1.5,,," ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" animation="fadeInUp"]
+[/pl_counter]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="14" animation_duration="2000" counter_align="center" counter_text="master certifications" counter_text_color="#333333" counter_text_style="Poppins,18,,400,,,Solid,,,," counter_number_color="#ffffffff" counter_number_style="Poppins,45,,600,,,Solid,1.5,,," ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" animation="fadeInUp"]
+[/pl_counter]
+[/pl_col]
+[/pl_row]
